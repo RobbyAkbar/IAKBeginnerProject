@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">IAK Beginner Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="birthday_card">Birthday Card</string>
+    <string name="food_order">Food Order</string>
+    <string name="court_counter">Court Counter</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="hbd">HBD</string>
+    <string name="happy_birthday_iak">Happy Birthday, IAK!</string>
+    <string name="from_robby">From, Robby!</string>
+    <string name="masukkan_nama_anda">Masukkan nama anda...</string>
+    <string name="pilih_minuman">Pilih Minuman</string>
+    <string name="teh_manis">Teh Manis</string>
+    <string name="kopi_pahit">Kopi Pahit</string>
+    <string name="pesan">Pesan..</string>
+    <string name="min">-</string>
+    <string name="nol">0</string>
+    <string name="plus">+</string>
+    <string name="total_harga">Total harga</string>
+    <string name="order">Order</string>
+    <string name="tentang">Tentang</string>
+    <string name="team_a">Team A</string>
+    <string name="_3_points">+3 Points</string>
+    <string name="_2_points">+2 Points</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
